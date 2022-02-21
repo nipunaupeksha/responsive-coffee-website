@@ -8,4 +8,3 @@
 
 
 ![preview img](/preview.png)
-# responsive-coffee-website
